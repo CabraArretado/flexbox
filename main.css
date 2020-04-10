@@ -17,3 +17,8 @@
     flex-direction: row;
     justify-content: space-evenly;
 }
+
+.pageHeader {
+    display: flex;
+    justify-content: center;
+}
