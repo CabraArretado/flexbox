@@ -1,0 +1,19 @@
+.list {
+    border: 1px solid red;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.shop {
+    flex-basis: 24%;
+    border: 1px solid green;
+}
+
+.last {
+    flex-basis: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
